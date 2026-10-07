@@ -22,7 +22,7 @@ ul {
 }
 
 .equipe .item {
-    background-color: #4CAF50;
+    background-color: #6b6b6b;
     color: white;
     padding: 10px 20px;
     border-radius: 5px;
@@ -40,7 +40,7 @@ ul {
 
 .caixa {
     width: 80px;
-    background-color: #2196F3;
+    background-color: #626364;
     color: white;
     display: flex;
     justify-content: center;
@@ -65,7 +65,7 @@ ul {
 }
 
 .produto {
-    background-color: #ff9800;
+    background-color: #5e5d5c;
     color: white;
     padding: 20px;
     border-radius: 8px;
