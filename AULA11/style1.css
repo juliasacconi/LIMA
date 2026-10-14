@@ -1,0 +1,62 @@
+
+/* EXERCICIO 1 */
+
+/* .grid-exercicio {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+
+} */
+
+/* EXERCICIO 2 */
+
+/* .grid-exercicio {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+} */
+
+/* EXERCICIO 3 */
+
+/* .grid-exercicio {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+} */
+
+/* EXERCICIO 4 */
+
+/* .grid-exercicio {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+} */
+
+/* EXERCICIO 5 */
+
+/* DESKTOP
+@media (min-width: 1024px) {
+  .grid-exercicio {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* TABLET */
+/* @media (max-width: 900px) {
+.grid-exercicio {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+} */
+
+/* CELULAR */
+/* @media (max-width: 600px) {
+.grid-exercicio {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+} */ 
+
+/* EXERCICIO 6 */
+
+/* .grid-exercicio {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+} */
